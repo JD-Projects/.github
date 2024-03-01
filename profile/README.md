@@ -1,5 +1,3 @@
-# JDP_Projects.github
-
 # Welcome!
 
 ### Thank you for taking the time to check out our project space.
